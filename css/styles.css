@@ -1,0 +1,87 @@
+
+@font-face {
+  font-family: 'BN Bark Grotesk';
+  src: url('/assets/fonts/BN-Bark Grotesk.otf') format('otf');
+}
+
+
+body {
+  margin: 0;
+  background-color: #F5F5F5;
+  font-family: 'Space Mono', monospace;
+  color: #383732;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.intro {
+  z-index: 1;
+  position: relative;
+  top: 200px;
+}
+
+.nav {
+  position: relative;
+  top: 400px;
+}
+.social {
+  position: relative;
+  top: 450px;
+}
+
+.social i {
+  font-size: 30px;
+  color: #383732;
+  padding-right: 10px;
+}
+.social i:hover {
+  color: #D3F233;
+}
+
+.name-content {
+  position: fixed;
+  max-width: 800px;
+}
+
+.name {
+  overflow: hidden;
+  left: 0;
+  /* display: flex;
+  align-items: center; */
+  /* left: 12px; */
+}
+
+.name h1 {
+  font-family: 'BN Bark Grotesk';
+  text-transform: uppercase;
+  font-size: 15rem;
+  color: #D3F233;
+  position: absolute;
+  z-index: -1;
+  transform: translateX(100%);
+  animation: moving 28s linear infinite;
+  animation-delay: -15s;
+}
+
+@keyframes moving {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translate(-100%);
+  }
+}
