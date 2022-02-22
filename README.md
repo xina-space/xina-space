@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xina-space&show_icons=true&theme=radical)
 
 
-### [📫](mailto:xinaspace@gmail.com) | [👵](https://www.instagram.com/xina.space/) |  [🎵](https://open.spotify.com/playlist/2CJtJZNcA3Y9aDPNCU99LB?si=88d31134ede2433e)  
+### [📫](mailto:xinaspace@gmail.com) | [👵](https://www.instagram.com/xina.space/) |  [🎵](https://open.spotify.com/playlist/2CJtJZNcA3Y9aDPNCU99LB?si=88d31134ede2433e) |  [🔗](https://troopl.com/xinaspace)
 
 <!--
 **xina-space/xina-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
