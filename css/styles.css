@@ -57,6 +57,18 @@ a {
   max-width: 800px;
 }
 
+#troopl {
+  width: 50px;
+  color: #383732;
+  text-align: left;
+  /* padding-right: 10px; */
+}
+
+#troopl:hover {
+  color: #D3F233;
+}
+
+
 .name {
   overflow: hidden;
   left: 0;
